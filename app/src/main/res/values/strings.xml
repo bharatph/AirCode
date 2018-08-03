@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AirCode</string>
+    <string name="code_area_empty">Start saying code</string>
+    <string name="code_area_permission">Allow this app to use microphone. Click on this to allow</string>
+</resources>
